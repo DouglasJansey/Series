@@ -1,0 +1,15 @@
+C:\Users\Douglas\Desktop\Estudo\DioSeries\bin\Debug\net6.0\DioSeries.exe
+C:\Users\Douglas\Desktop\Estudo\DioSeries\bin\Debug\net6.0\DioSeries.deps.json
+C:\Users\Douglas\Desktop\Estudo\DioSeries\bin\Debug\net6.0\DioSeries.runtimeconfig.json
+C:\Users\Douglas\Desktop\Estudo\DioSeries\bin\Debug\net6.0\DioSeries.dll
+C:\Users\Douglas\Desktop\Estudo\DioSeries\bin\Debug\net6.0\DioSeries.pdb
+C:\Users\Douglas\Desktop\Estudo\DioSeries\obj\Debug\net6.0\DioSeries.csproj.AssemblyReference.cache
+C:\Users\Douglas\Desktop\Estudo\DioSeries\obj\Debug\net6.0\DioSeries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Douglas\Desktop\Estudo\DioSeries\obj\Debug\net6.0\DioSeries.AssemblyInfoInputs.cache
+C:\Users\Douglas\Desktop\Estudo\DioSeries\obj\Debug\net6.0\DioSeries.AssemblyInfo.cs
+C:\Users\Douglas\Desktop\Estudo\DioSeries\obj\Debug\net6.0\DioSeries.csproj.CoreCompileInputs.cache
+C:\Users\Douglas\Desktop\Estudo\DioSeries\obj\Debug\net6.0\DioSeries.dll
+C:\Users\Douglas\Desktop\Estudo\DioSeries\obj\Debug\net6.0\refint\DioSeries.dll
+C:\Users\Douglas\Desktop\Estudo\DioSeries\obj\Debug\net6.0\DioSeries.pdb
+C:\Users\Douglas\Desktop\Estudo\DioSeries\obj\Debug\net6.0\DioSeries.genruntimeconfig.cache
+C:\Users\Douglas\Desktop\Estudo\DioSeries\obj\Debug\net6.0\ref\DioSeries.dll
